@@ -1,4 +1,7 @@
 # Scientific-Calculator
+<p align="center">
+  <img src="images/preview.png" alt="Tampilan Aplikasi" width="200">
+</p>
 
 Aplikasi **Scientific Calculator** berbasis web yang dibuat menggunakan **Python Flask**.  
 Aplikasi ini meniru fungsi kalkulator scientific seperti pada kalkulator fisik, dengan tampilan interaktif dan backend Python yang aman (tanpa `eval()`).
